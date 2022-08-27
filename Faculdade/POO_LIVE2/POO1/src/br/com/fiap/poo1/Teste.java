@@ -26,7 +26,7 @@ public class Teste {
 		ContaCorrente c2 = new ContaCorrente();
 		System.out.println("Agencia" + c1.agencia);
 		System.out.println("Numero da conta" + c1.numeroConta);
-		System.out.println("O valor do saldo atual é " + saldoAtual);
+		System.out.println("O valor do saldo atual ï¿½ " + saldoAtual);
 
 	}
 
