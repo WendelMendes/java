@@ -1,0 +1,5 @@
+CRTL + SHIFT + P
+>Creat java project
+>No build tools //tipo de projeto simples
+*configurar onde ele vai criar a pasta
+*nome do projeto java geralmente país.com.instituição.Nome
