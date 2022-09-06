@@ -22,23 +22,23 @@ public class Usuario {
         return nome;
     }
 
-    public void setNome(String nome) {
+    protected void setNome(String nome) {
         this.nome = nome;
     }
 
-    public void setEmail(String email) {
+    protected void setEmail(String email) {
         this.email = email;
     }
 
-    public void setSenha(String senha) {
+    protected void setSenha(String senha) {
         this.senha = senha;
     }
 
-    public void setDataNascimento(int dataNascimento) {
+    protected void setDataNascimento(int dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
-    public void setGenero(Boolean genero) {
+    protected void setGenero(Boolean genero) {
         this.genero = genero;
     }
 }
