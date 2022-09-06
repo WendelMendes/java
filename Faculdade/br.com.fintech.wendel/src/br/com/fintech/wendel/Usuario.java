@@ -1,17 +1,16 @@
-package br.com.fintench;
+package br.com.fintech.wendel;
 
 public class Usuario {
-    public String nome;
-    public String email;
-    public String senha;
-    public Date dataNascimento;
-    public Boolean genero; 
-
+    protected String nome;
+    protected String email;
+    protected String senha;
+    protected int dataNascimento;
+    protected Boolean genero; 
 
     public Usuario() {
     }
 
-    public Usuario(String nome, String email, String senha, Date dataNascimento, Boolean genero) {
+    public Usuario(String nome, String email, String senha, int dataNascimento, Boolean genero) {
         this.nome = nome;
         this.email = email;
         this.senha = senha;
@@ -35,7 +34,7 @@ public class Usuario {
         this.senha = senha;
     }
 
-    public void setDataNascimento(Date dataNascimento) {
+    public void setDataNascimento(int dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
@@ -43,5 +42,3 @@ public class Usuario {
         this.genero = genero;
     }
 }
-
-
