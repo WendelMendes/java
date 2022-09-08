@@ -4,13 +4,13 @@ public class Usuario {
     protected String nome;
     protected String email;
     protected String senha;
-    protected int dataNascimento;
+    protected String dataNascimento;
     protected Boolean genero; 
 
     public Usuario() {
     }
 
-    public Usuario(String nome, String email, String senha, int dataNascimento, Boolean genero) {
+    public Usuario(String nome, String email, String senha, String dataNascimento, Boolean genero) {
         this.nome = nome;
         this.email = email;
         this.senha = senha;
@@ -34,7 +34,7 @@ public class Usuario {
         this.senha = senha;
     }
 
-    protected void setDataNascimento(int dataNascimento) {
+    protected void setDataNascimento(String dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
