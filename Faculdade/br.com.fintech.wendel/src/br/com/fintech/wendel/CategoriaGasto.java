@@ -9,5 +9,7 @@ public class CategoriaGasto {
         this.categoriaGasto = categoriaGasto;
     }
 
-    
+    public String getCategoriaGasto() {
+        return categoriaGasto;
+    }
 }
