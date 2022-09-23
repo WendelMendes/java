@@ -1,6 +1,6 @@
-package br.com.exUm;
+package br.com.ex1;
 import java.util.Scanner;
-public class exUm {
+public class ex1 {
  public static void main(String[] args) {
      int valorTotal = 0;
      Scanner xx = new Scanner(System.in);
