@@ -1,6 +1,6 @@
 package br.com.fintech.wendel;
 
-public class Teste {
+public class Teste extends Usuario {
 	public static void main(String[] args) {
 		Usuario testeUsuario = new Usuario();
 		testeUsuario.nome = "wendel";

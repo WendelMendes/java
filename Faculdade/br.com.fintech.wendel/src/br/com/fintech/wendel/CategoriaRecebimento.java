@@ -13,4 +13,8 @@ public class CategoriaRecebimento {
     public String getCategoriaRecebimento() {
         return categoriaRecebimento;
     }
+
+    public void setCategoriaRecebimento(String categoriaRecebimento) {
+        this.categoriaRecebimento = categoriaRecebimento;
+    }
 }

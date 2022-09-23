@@ -5,11 +5,16 @@ public class CategoriaGasto {
 
     public CategoriaGasto() {
     }
+
     public CategoriaGasto(String categoriaGasto) {
         this.categoriaGasto = categoriaGasto;
     }
 
     public String getCategoriaGasto() {
         return categoriaGasto;
+    }
+
+    public void setCategoriaGasto(String categoriaGasto) {
+        this.categoriaGasto = categoriaGasto;
     }
 }
