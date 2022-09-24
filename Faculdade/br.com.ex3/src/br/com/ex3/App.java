@@ -1,4 +1,4 @@
-//Elabore um programa que calcule a sequência de Fibonacci até o 30º termo. A sequência obedece ao seguinte padrão: 1, 1, 2, 3, 5, ... n.
+//Elabore um programa que calcule a sequência de Fibonacci até o 30º termo. A sequência obedece ao seguinte padrão: 1, 1, 2, 3, 5, 8 ... n.
 package br.com.ex3;
 public class App {
     public static void main(String[] args) {
