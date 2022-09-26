@@ -1,0 +1,42 @@
+Elabore um programa que leia o nome e o salário de n pessoas, o usuário deverá informar se deseja continuar a iteração. Ao final, apresente a quantidade de pessoas informadas e a média entre os salários.
+
+Escreva um programa para preencher uma matriz unidimensional (vetor) com 15 posições de números inteiros e, em seguida, apresente os elementos.
+
+Escreva um programa para preencher uma matriz unidimensional (vetor) que deverá receber as temperaturas ao longo do dia. A medição precisa ser registrada a cada uma hora. Ao final, exiba a temperatura média do dia.
+
+
+Altere o programa anterior para registrar as temperaturas de cada dia do mês, neste caso, utilize uma matriz com 30 linhas e 24 colunas. Ao final, verifique qual foi a maior temperatura, a menor temperatura e a temperatura média.
+
+
+Escreva um programa para armazenar em uma matriz as notas das 5 disciplinas dos 20 alunos de uma turma.
+
+Considere a string ‘BANANADA’ e combine as instruções de manipulação de string para:
+
+Imprimir ANA, usando substr.
+Substituir a string ‘BANANADA’ por ‘BANDA’, usando a instrução delete.
+Indicar as posições de todos os ‘A’s existentes na palavra ‘BANANADA’.
+
+Indique se uma expressão é palíndroma.
+Exemplo: “AMOR” e “ROMA” não são palíndromos.
+“OVO” e “OVO” ou “AMOR ME AMA EM ROMA” e “AMOR ME AMA EM ROMA” são palíndromes.
+
+Dado um texto contendo somente palavras separadas por caracteres em branco, terminando em ponto final, escreva apenas as palavras distintas existentes no texto.
+Texto = “EU SOU MAIS EU ENQUANTO EU SOU EU. ”
+Resposta = “EU SOU MAIS ENQUANTO”
+
+Leia atenciosamente a explicação sobre o CPF, em seguida, analise os algoritmos e elabore um programa em Java para implementá-lo.
+	CÁLCULO DOS DÍGITOS DE CONTROLE DO CPF
+O cálculo dos dígitos de controle do CPF é um algoritmo bem interessante para apresentação das técnicas associadas aos comandos de manipulação de conjuntos de caracteres ou strings. No caso do CPF, são válidos os seguintes aspectos:
+	O CPF possui 11 dígitos; os dois últimos números são dígitos de controle.
+O primeiro dígito de controle é calculado com base nos 9 primeiros dígitos.
+O segundo dígito de controle é calculado com base nos 9 primeiros dígitos e no primeiro dígito de controle.
+A Região Fiscal onde é emitido o CPF (definida pelo nono dígito) tem a seguinte abrangência: 1 (DF-GO-MS-MT-TO), 2 (AC-AM-AP-PA-RO-RR), 3 (CE-MA-PI), 4 (AL-PB-PE-RN), 5 (BA-SE), 6 (MG), 7 (ES-RJ), 8 (SP), 9 (PR-SC) e 0 (RS).
+
+
+Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface List
+
+Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface Set.
+
+Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface Map.
+
+Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface Generic.
