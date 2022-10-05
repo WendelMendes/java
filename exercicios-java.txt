@@ -1,9 +1,3 @@
-Considere a string ‘BANANADA’ e combine as instruções de manipulação de string para:
-
-Imprimir ANA, usando substr.
-Substituir a string ‘BANANADA’ por ‘BANDA’, usando a instrução delete.
-Indicar as posições de todos os ‘A’s existentes na palavra ‘BANANADA’.
-
 Indique se uma expressão é palíndroma.
 Exemplo: “AMOR” e “ROMA” não são palíndromos.
 “OVO” e “OVO” ou “AMOR ME AMA EM ROMA” e “AMOR ME AMA EM ROMA” são palíndromes.
