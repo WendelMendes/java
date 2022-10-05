@@ -1,7 +1,7 @@
 //Escreva um programa para preencher uma matriz unidimensional (vetor) com 15 posições de números inteiros e, em seguida, apresente os elementos.
 import java.util.ArrayList;
 import java.util.Scanner;
-public class App {
+public class ex6 {
     public static void main(String[] args) throws Exception {
         Scanner xx = new Scanner(System.in);
         ArrayList numeros = new ArrayList();
