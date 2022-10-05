@@ -1,5 +1,3 @@
-Escreva um programa para armazenar em uma matriz as notas das 5 disciplinas dos 20 alunos de uma turma.
-
 Considere a string ‘BANANADA’ e combine as instruções de manipulação de string para:
 
 Imprimir ANA, usando substr.
