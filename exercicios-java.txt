@@ -1,18 +1,1 @@
-/*
-Leia atenciosamente a explicação sobre o CPF, em seguida, analise os algoritmos e elabore um programa em Java para implementá-lo.
-	CÁLCULO DOS DÍGITOS DE CONTROLE DO CPF
-O cálculo dos dígitos de controle do CPF é um algoritmo bem interessante para apresentação das técnicas associadas aos comandos de manipulação de conjuntos de caracteres ou strings. No caso do CPF, são válidos os seguintes aspectos:
-	O CPF possui 11 dígitos; os dois últimos números são dígitos de controle.
-O primeiro dígito de controle é calculado com base nos 9 primeiros dígitos.
-O segundo dígito de controle é calculado com base nos 9 primeiros dígitos e no primeiro dígito de controle.
-A Região Fiscal onde é emitido o CPF (definida pelo nono dígito) tem a seguinte abrangência: 1 (DF-GO-MS-MT-TO), 2 (AC-AM-AP-PA-RO-RR), 3 (CE-MA-PI), 4 (AL-PB-PE-RN), 5 (BA-SE), 6 (MG), 7 (ES-RJ), 8 (SP), 9 (PR-SC) e 0 (RS).
-*/
-
-
-Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface List
-
-Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface Set.
-
-Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface Map.
-
-Escreva uma lista para o armazenamento de Strings e exemplifique a utilização dos métodos da interface Generic.
+fim.
