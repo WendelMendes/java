@@ -5,7 +5,7 @@ public class ex1 {
      int valorTotal = 0;
      Scanner xx = new Scanner(System.in);
          for (int i=1; i<=20 ; i++) {
-        	 System.out.println("Digite o " + i + "º valor: ");
+        	 System.out.println("Digite o " + i + "ï¿½ valor: ");
         	 int valor = xx.nextInt();
              valorTotal = valorTotal + valor;
          }
@@ -13,4 +13,4 @@ public class ex1 {
      xx.close();
  }
 }
-//Elabore um programa para ler 20 valores inteiros fornecidos pelo usuário e calcular a soma deles. Apresente o resultado ao final.
+//Elabore um programa para ler 20 valores inteiros fornecidos pelo usuï¿½rio e calcular a soma deles. Apresente o resultado ao final.
